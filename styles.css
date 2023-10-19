@@ -1,0 +1,16 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 150%;
+    background-color: rgb(235, 239, 242);
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+a {
+    color: black;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
